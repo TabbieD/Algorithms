@@ -26,19 +26,19 @@
 5. **Last Digit of the Sum of Squares of Fibonacci Numbers**
 
 6. **Efficient greedy algorithm for the following problems:**
-  -(a) changing money with a minimum number of coins;
-  -(b) maximizing the total value of a loot;
-  -(c) maximizing revenue in online ad placement;
-  -(d) minimizing work while collecting signatures;
-  -(e) maximizing the number of prize places in a competition;
-  -(f) finally, maximizing your salary!
+  - (a) changing money with a minimum number of coins;
+  - (b) maximizing the total value of a loot;
+  - (c) maximizing revenue in online ad placement;
+  - (d) minimizing work while collecting signatures;
+  - (e) maximizing the number of prize places in a competition;
+  - (f) finally, maximizing your salary!
 
 7. **Efficient algorithms for the following computational problems:**
-  -(a) searching a sorted data for a key;
-  -(b) finding a majority element in a data;
-  -(c) improving the quick sort algorithm;
-  -(d) checking how close a data is to being sorted;
-  -(e) organizing a lottery;
- -(f) finding the closest pair of points.
+  - (a) searching a sorted data for a key;
+  - (b) finding a majority element in a data;
+  - (c) improving the quick sort algorithm;
+  - (d) checking how close a data is to being sorted;
+  - (e) organizing a lottery;
+  - (f) finding the closest pair of points.
 
 8.
