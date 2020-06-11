@@ -34,26 +34,15 @@
   - (f) finally, maximizing your salary!
 
 7. **Efficient algorithms for the following computational problems:**
-<<<<<<< HEAD
- (a) searching a sorted data for a key;
- (b) finding a majority element in a data;
- (c) improving the quick sort algorithm;
- (d) checking how close a data is to being sorted;
- (e) organizing a lottery;
- (f) finding the closest pair of points.
-
-8. **Change Problem Again**: A dynamic programming algorithm for solving the money change problem. 
-
-9. **Primitive calculator**: A dynamic programming algorithm to find the minimum number of operations needed to get a number n.
-
-10.
-=======
   - (a) searching a sorted data for a key;
   - (b) finding a majority element in a data;
   - (c) improving the quick sort algorithm;
   - (d) checking how close a data is to being sorted;
   - (e) organizing a lottery;
   - (f) finding the closest pair of points.
+  
+8. **Change Problem Again**: A dynamic programming algorithm for solving the money change problem. 
 
-8.
->>>>>>> 892749300a87869466c2d4eecb7318692329532a
+9. **Primitive calculator**: A dynamic programming algorithm to find the minimum number of operations needed to get a number n.
+
+10.
