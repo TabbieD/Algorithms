@@ -41,4 +41,8 @@
  (e) organizing a lottery;
  (f) finding the closest pair of points.
 
-8.
+8. **Change Problem Again**: A dynamic programming algorithm for solving the money change problem. 
+
+9. **Primitive calculator**: A dynamic programming algorithm to find the minimum number of operations needed to get a number n.
+
+10.
