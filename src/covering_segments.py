@@ -45,6 +45,7 @@ def stress_test():
         start = time.time()
 
         result, end = optimal_points(segments), time.time() - start
+        result
         if end <= 5:
             print(l, "OK")
         else:
