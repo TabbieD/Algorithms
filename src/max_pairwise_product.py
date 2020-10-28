@@ -8,7 +8,7 @@ def max_pairwise_product(numbers):
     for i in range(1, n):
         if numbers[i] > numbers[first]:
             first = i
-    numbers[-1] = numbers[first]
+    numbers[n-1], numbers[first] = numbers[first], numbers[n-1]
     second = 0
     for i in range(1, n - 1):
         if numbers[i] > numbers[second]:
